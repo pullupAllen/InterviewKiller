@@ -1,1 +1,3 @@
 # InterviewKiller
+记录个人累积的知识点 for interview 
+包括但不局限于：八股、架构、实战、书籍...
